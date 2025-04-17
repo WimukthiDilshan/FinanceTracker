@@ -1,8 +1,6 @@
 # FinanceTracker - Modern Financial Management Solution
 
-![FinanceTracker Logo](client/public/logo.png)
-
-A full-stack financial management application that helps users track expenses, manage budgets, visualize their financial health, and convert currencies in real-time.
+A  financial management application that helps users track expenses, manage budgets, visualize their financial health, and convert currencies in real-time.
 
 ## 🌟 Features
 
@@ -193,17 +191,6 @@ npm test
 - GET /api/currency/rates - Get current exchange rates
 - GET /api/currency/convert - Convert between currencies
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👏 Acknowledgments
 
@@ -212,7 +199,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for the database
 - Node.js community for the amazing tools
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/finance-tracker](https://github.com/yourusername/finance-tracker)
